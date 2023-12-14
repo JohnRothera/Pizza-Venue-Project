@@ -278,3 +278,4 @@
 /Users/johnrothera/Desktop/Github/Pizza-project/Frontend2/ContosoPizza/obj/Debug/net7.0/ContosoPizza.pdb
 /Users/johnrothera/Desktop/Github/Pizza-project/Frontend2/ContosoPizza/obj/Debug/net7.0/ContosoPizza.genruntimeconfig.cache
 /Users/johnrothera/Desktop/Github/Pizza-project/Frontend2/ContosoPizza/obj/Debug/net7.0/ref/ContosoPizza.dll
+/Users/johnrothera/Desktop/Github/Pizza-project/Frontend2/ContosoPizza/obj/Debug/net7.0/ContosoPizza.sourcelink.json

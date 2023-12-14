@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dDMNNC61oxJ63nigoMPFTcM56UezGydVXEh8FITUeogp6Hlfi+JNCepzonPMCeM6gm/mR1cV7PrcDQvXmxvRjw==",
+  "dgSpecHash": "ND8Y6fK43m4lHFcAFWPZEY3kgIhcsJPovOAU/SGU4aS4IZlpOtM0ydgLFxGx7MujS0HcJhSJmuR9sCeZ0vQVkw==",
   "success": true,
   "projectFilePath": "/Users/johnrothera/Desktop/Github/Pizza-project/Frontend2/ContosoPizza/ContosoPizza.csproj",
   "expectedPackageFiles": [
@@ -171,10 +171,7 @@
     "/Users/johnrothera/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/johnrothera/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/johnrothera/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/johnrothera/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/johnrothera/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/johnrothera/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/johnrothera/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+    "/Users/johnrothera/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
